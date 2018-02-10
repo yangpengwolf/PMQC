@@ -1,0 +1,1 @@
+ C:\windows\system32\regsvr32 D:\Doc\C#\FA\FA\Lib\XdictGrb\xdictgrb.dll
